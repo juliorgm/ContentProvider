@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774712696286",
+    "project_id": "exemplenotifications",
+    "storage_bucket": "exemplenotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774712696286:android:374fdf3cdff3bea43ad14f",
+        "android_client_info": {
+          "package_name": "br.com.exemplenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774712696286-3tam1nslbp61dlea5ojvklvssjqkoqks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48Le50xhvzXZHEsviN6cj4hkTVWhDhcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774712696286-3tam1nslbp61dlea5ojvklvssjqkoqks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

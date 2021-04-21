@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista de Contatos</string>
+    <string name="txt_buscar">Buscar:</string>
+    <string name="edt_nome_contato">Nome contato</string>
+    <string name="edt_telefone">Número do telefone</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_delete_contact">Excluir contato</string>
+</resources>
