@@ -32,7 +32,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun getContentProvider(){
         try {
-            val url= "content://br.com.contentprovider.provider/notes"
+            //val url= "content://br.com.contentprovider.provider/notes"
+            val url= "com.example.contenteprovider.provider"
             val data = Uri.parse(url)
             val cursor: Cursor? = contentResolver.query(data, null, null, null, "title")
             binding.recyclerviewNotes.apply {
